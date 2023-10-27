@@ -1,0 +1,131 @@
+html{
+	margin-left: 3cm;
+	margin-right: 3cm;
+}
+
+
+.tbl_report{
+	width: 100%;
+	border-collapse:collapse;
+	font-size: 9pt;
+
+}
+
+.tbl_report_i{
+	width: 55%;
+	font-size: 9pt;
+	border-collapse:collapse;
+
+
+}
+.tbl_report_2{
+	width: 40%;
+
+
+
+}
+
+
+.center{
+  text-align:center;
+}
+
+
+#listado_width{
+  height: 2.5rem;
+  background-color: #f8f6f6;
+}
+
+
+#tbl_contenido{
+	border-collapse:collapse;
+	border-color: #000;
+	width: 100%;
+}
+
+.table_header{
+    background-color: #114866;
+    color: #fff;
+
+}
+
+.border{
+
+	border:0.5px #287db6 solid;
+}
+
+.dashed{
+	border-bottom-color: #000;
+	border-bottom-style: dashed;
+	border-bottom-width: 0.60px;
+}
+
+
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
+
+.color{
+	background-color: #bedbed ;
+
+}
+
+table{
+	font-family:"Open Sans", sans-serif;
+}
+
+.padding{
+
+		padding-bottom: 10px; 
+		padding-top: 6px;
+}
+
+.color{
+	background-color: #ededed;
+}
+
+.color_input{
+	background-color: #fff;
+	border:1.5px #000 solid;
+}
+
+.border_left{
+	border-right: #fff 4px solid;
+}
+
+
+
+.margin{
+	margin-top: 10px;
+ 
+}
+
+.pd_left{
+	padding-left: 5px;
+	padding-bottom: 5px;
+}
+
+.pd_titulo{
+padding-top: 7px;
+
+
+}
+
+.padding-left{
+	padding-left: 9px;
+}
+
+.color_tab{
+	background-color: #fff;
+	border:0.8px #000 solid;
+ 
+}
+
+.font_s{
+	font-size: 7pt;
+}

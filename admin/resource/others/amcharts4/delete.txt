@@ -1,0 +1,2 @@
+var o=r,s=e.createChild(R.a);MUESTRA EL LOGO
+e.url="https://www.amcharts.com/", URL 
